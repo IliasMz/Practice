@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe66cee1-6ebb-47a9-8c3e-b30c80f27a74" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ACTIVITE_PRATIQUE1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACTIVITE_PRATIQUE1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACTIVITE_PRATIQUE1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACTIVITE_PRATIQUE1/.idea/mavenExecutorSetting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACTIVITE_PRATIQUE1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACTIVITE_PRATIQUE1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACTIVITE_PRATIQUE1/src/main/java/ma/emsi/ServerJWS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACTIVITE_PRATIQUE1/src/main/java/ma/emsi/WS/BanqueService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ACTIVITE_PRATIQUE1/src/main/java/ma/emsi/WS/Compte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/java/ma/emsi/BankAccountService/BankAccountServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/java/ma/emsi/BankAccountService/DTO/BankAccountRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/java/ma/emsi/BankAccountService/DTO/BankAccountResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/java/ma/emsi/BankAccountService/Entity/AccountProjection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/java/ma/emsi/BankAccountService/Entity/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/java/ma/emsi/BankAccountService/Enum/AccountType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/java/ma/emsi/BankAccountService/Mappers/AccountMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/java/ma/emsi/BankAccountService/Repositories/BankAccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/java/ma/emsi/BankAccountService/Service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/java/ma/emsi/BankAccountService/Service/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/java/ma/emsi/BankAccountService/Web/AccountRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Activite_Pratique2/src/test/java/ma/emsi/BankAccountService/ActivitePratique2ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/src/main/java/org/sid/customerservice/CustomerServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/src/main/java/org/sid/customerservice/Repositories/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/src/main/java/org/sid/customerservice/entities/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/src/main/java/org/sid/customerservice/entities/CustomerProjection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer-Service/src/test/java/org/sid/customerservice/CustomerServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/BillingServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/Model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/Model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/entities/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/entities/ProductItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/repositories/BillRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/repositories/ProductItemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/service/CustomersRestClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/service/ProductRestClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/java/org/sid/billingservice/web/BillRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/billing-service/src/test/java/org/sid/billingservice/BillingServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/java/org/sid/discoveryservice/DiscoveryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/src/test/java/org/sid/discoveryservice/DiscoveryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eco-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/org/sid/gateway/GatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/test/java/org/sid/gateway/GatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/org/sid/inventoryservice/InventoryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/org/sid/inventoryservice/entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/java/org/sid/inventoryservice/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/test/java/org/sid/inventoryservice/InventoryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/ClientWs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/ma/emsi/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/BanqueService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/BanqueService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/BanqueWS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/BanqueWS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/Compte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/Compte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/Conversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/Conversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/ConversionResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/ConversionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/GetCompte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/GetCompte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/GetCompteResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/GetCompteResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/GetComptes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/GetComptes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/GetComptesResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/GetComptesResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/ObjectFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/ObjectFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/src/main/java/proxy/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientWs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../clientws2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../conversion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../getMethod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../getcompte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../getsolde.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../postMethod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swagger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../updateMethode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wsdl.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IliasMz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IliasMz/Practice.git&quot;,
+    &quot;accountId&quot;: &quot;0740aad1-dc67-4ba0-8e1c-eb49c21aa0d5&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oCXIP494kfMJsGJDyv3008sBQI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ConfigServiceApplicationTests.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.BillingServiceApplication.executor": "Run",
+    "Spring Boot.ConfigServiceApplication.executor": "Run",
+    "Spring Boot.CustomerServiceApplication.executor": "Run",
+    "Spring Boot.DiscoveryServiceApplication.executor": "Run",
+    "Spring Boot.GatewayApplication.executor": "Run",
+    "Spring Boot.InventoryServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mohamedayoubzoubir/Desktop/Practice/activites PRatique/Activite_Pratique3/eco-app/config-repo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "ts.external.directory.path": "/Users/mohamedayoubzoubir/Desktop/Practice/activites PRatique/Activite_Pratique3/eco-app/My-Web-Project/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config-repo" />
+      <recent name="$PROJECT_DIR$/gateway/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ConfigServiceApplicationTests">
+    <configuration name="ConfigServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="config-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.ilias.configservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.ilias.configservice" />
+      <option name="MAIN_CLASS_NAME" value="net.ilias.configservice.ConfigServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="billing-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.billingservice.BillingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="config-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.ilias.configservice.ConfigServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Customer-Service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.customerservice.CustomerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.discoveryservice.DiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="inventory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.inventoryservice.InventoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConfigServiceApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19416.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19416.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe66cee1-6ebb-47a9-8c3e-b30c80f27a74" name="Changes" comment="" />
+      <created>1730374451245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730374451245</updated>
+      <workItem from="1730374453278" duration="3262000" />
+      <workItem from="1730380140207" duration="4030000" />
+      <workItem from="1730469045929" duration="2789000" />
+      <workItem from="1730551263880" duration="3941000" />
+      <workItem from="1731261841397" duration="44000" />
+      <workItem from="1732620472215" duration="214000" />
+      <workItem from="1732621173511" duration="966000" />
+      <workItem from="1732625445121" duration="748000" />
+      <workItem from="1732702509412" duration="6135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
